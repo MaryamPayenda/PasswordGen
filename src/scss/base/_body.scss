@@ -1,7 +1,7 @@
 body {
   display: flex;
-  justify-content: center;
   align-items: center;
+  flex-direction: column;
   margin: 0;
   background-color: $black-color;
   color: $white-color;
@@ -9,22 +9,19 @@ body {
   font-family: "Neucha", cursive;
 }
 .container {
-  background-color: blue;
-  padding: 3rem;
-  border-radius: 1rem;
-  border: 2px solid green;
-  //   @include flexbox;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
+  @include flexbox;
+  background-color: rgb(36, 36, 41);
+  padding: 1rem;
+  border-radius: 1rem;
+  border: transparent;
 }
 
 .form {
   display: grid;
   grid-template-columns: auto auto;
   row-gap: 1rem;
-  column-gap: 3rem;
+  column-gap: 11rem;
   justify-content: center;
   align-items: center;
 }
@@ -37,24 +34,21 @@ label {
   font-weight: bold;
 }
 
-.character-amount-container {
-  display: flex;
-  align-items: center;
-}
+// .character-amount-container {
+//   display: flex;
+//   align-items: center;
+// }
 .number-input {
   width: 2rem;
 }
 
 .password-display {
-  background-color: white;
+  @include flexbox;
+  background-color: rgb(240, 234, 234);
   color: black;
   padding: 1rem;
-  border: 1px solid green;
   height: 2rem;
   width: 350px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   word-break: break-all;
   border-radius: 0.5rem;
 }
@@ -62,8 +56,8 @@ label {
 .btn {
   grid-column: span 2;
   background-color: transparent;
-  border: 2px solid white;
-  color: white;
+  border: 2px solid $white-color;
+  color: $white-color;
   padding: 0.5rem;
   font-weight: bold;
   cursor: pointer;
