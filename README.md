@@ -19,7 +19,6 @@
     <li><a href="#usage">Usage</a></li>
    
  
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
