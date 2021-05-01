@@ -30,7 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Paswword Generator]![Passwordgen](https://user-images.githubusercontent.com/20128950/116781806-b17c0780-aa85-11eb-8847-fe4728503bd4.png)
+
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
