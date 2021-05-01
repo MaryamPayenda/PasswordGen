@@ -36,16 +36,9 @@ this project made using html,SCSS and JavaScript.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Javascript](https://www.javascript.com/)
 * [SCSS](https://sass-lang.com/)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
 
 
 ### Prerequisites
@@ -58,16 +51,16 @@ Important npm packages
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+ 
+1. Initialize git repo
    ```sh
    git init
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm init
    ```
-4. Build the site `config.js`
+3. Build the site
    ```JS
    npm run build
    ```
