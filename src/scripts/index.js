@@ -1,5 +1,4 @@
 // getting values from id
-const CharachterAmountRange = document.getElementById("CharachterAmountRange");
 const CharachterAmountNumber = document.getElementById(
   "CharachterAmountNumber"
 );

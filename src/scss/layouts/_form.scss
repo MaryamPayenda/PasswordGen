@@ -1,0 +1,28 @@
+.form {
+  @include grid;
+  grid-template-columns: auto auto;
+  row-gap: 1rem;
+  column-gap: 11rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+.number-input {
+  width: 2rem;
+}
+
+.btn {
+  grid-column: span 2;
+  background-color: transparent;
+  border: 2px solid $white-color;
+  color: $white-color;
+  padding: 0.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 1rem;
+}
+.btn:hover {
+  background-color: $form-color;
+}

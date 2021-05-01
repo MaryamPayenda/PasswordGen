@@ -1,0 +1,8 @@
+.container {
+  flex-direction: column;
+  @include flexbox;
+  background-color: rgb(36, 36, 41);
+  padding: 1rem;
+  border-radius: 1rem;
+  border: transparent;
+}
