@@ -18,9 +18,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+ 
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -30,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Paswword Generator]![Passwordgen](https://user-images.githubusercontent.com/20128950/116781806-b17c0780-aa85-11eb-8847-fe4728503bd4.png)
+![Passwordgen](https://user-images.githubusercontent.com/20128950/116781806-b17c0780-aa85-11eb-8847-fe4728503bd4.png)
 
 this project made using html,SCSS and JavaScript.
 
