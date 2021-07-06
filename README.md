@@ -27,7 +27,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Passwordgen](https://user-images.githubusercontent.com/20128950/116781806-b17c0780-aa85-11eb-8847-fe4728503bd4.png)
+![password generator](https://user-images.githubusercontent.com/20128950/124626329-da9e8700-de7e-11eb-8100-1e47d1b84527.png)
+
 
 this project made using html,SCSS and JavaScript.
 
@@ -69,5 +70,3 @@ Important npm packages
 This project use to generate random password including lowercase,uppercase,number and symboles.
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
